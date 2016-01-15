@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/khasang/TrackerMonitor.png?label=ready&title=Ready)](https://waffle.io/khasang/TrackerMonitor)
 #### .net C#, ASP.net MVC 5, SignalR, Entity Framework
 ------
 
